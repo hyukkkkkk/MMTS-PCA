@@ -2,10 +2,11 @@
 
 This code is for "Fault Monitoring and Visualization System of Integrating Multiclass Mahalanobis-Taguchi Systems and Principal Component Analysis", Journal of Engineering Applications of Artificial Intelligence, to be submitted.
 
-![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/b8838320-ea32-4e82-ae63-d5438f901fda)
-![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/e6199b2a-0512-43f5-bc93-ee426ae2ec03)
-![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/65e3e802-a855-4c77-b374-e365e8451336)
-![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/47b795eb-376b-4b83-94f0-f04487de15f6)
+![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/57f3e622-d9b3-4956-9c43-bb513110af64)
+![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/2b7dc9d7-c054-45f4-ac94-187e27c5085f)
+![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/4c0b3bda-e960-414e-bfdc-81dafd3e3b36)
+![image](https://github.com/hyukkkkkk/MMTS-PCA/assets/118171739/10bfe4fd-ba80-4590-9865-121f928d4798)
+
 
 * * *
 # Acknowledgement
